@@ -1,5 +1,5 @@
 body{
-	background-image: url(../images/new_bg.jpeg);
+	background-image: url(../images/new_bg_1.jpeg);
 	background-position: center center;
 	background-size: cover;
 	-webkit-background-size: cover;
@@ -23,6 +23,7 @@ h1{
 
 h2 {
 	text-transform: uppercase;
+	background-color: #333; /*remove*/
 	letter-spacing: 5px;
 	color: yellow; /*values recognize by css*/
 	font-family: 'Roboto', sans-serif;
